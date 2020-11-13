@@ -78,3 +78,16 @@ Category: malicious
 result: Trojan[Downloader]/Android.Agent
 
 ```
+---
+
+## Downloads and run
+
+> git clone https://github.com/farinap5/A-xex.git
+
+> cd A-xex
+
+> python3 check_dependencies.py
+
+> python3 a-xex.py
+
+---
