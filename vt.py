@@ -29,7 +29,7 @@ def help():
   Usage Example:
   
   python3
-  vt.py sig=566d0c5a08d1c32a8d049794a33af5dc -api=yOuRK3Yfr0mv1Ru5t0Tal
+  vt.py sig=599d0c5a08d1c32a8d049794a33af5dc -api=yOuRK3Yfr0mv1Ru5t0Tal
     """)
 
 try:
