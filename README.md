@@ -82,12 +82,10 @@ result: Trojan[Downloader]/Android.Agent
 
 ## Downloads and run
 
-> git clone https://github.com/farinap5/A-xex.git
+> git clone https://github.com/farinap5/VirusTotal-API-Requester.git
 
-> cd A-xex
+> cd VirusTotal-API-Requester.git
 
-> python3 check_dependencies.py
-
-> python3 a-xex.py
+> python3 vt.py -help
 
 ---
